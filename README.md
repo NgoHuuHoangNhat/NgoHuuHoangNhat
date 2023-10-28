@@ -1,4 +1,4 @@
-  🚀 <h3 style="text-color: blue">Ngô Hữu Hoàng Nhật</h3> 
+  <h3>🚀 Ngô Hữu Hoàng Nhật</h3> 
 
 - 👋 Hi, I’m Ngo Huu Hoang Nhat
 - 👀 I’m interested in the field of Web Application, Mobile App, AI 
