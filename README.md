@@ -41,11 +41,13 @@ I enjoy understanding systems from the ground up, solving complex technical prob
 
 ### Database
 
+<p>
 <img src="https://cdn.simpleicons.org/postgresql" width="40" height="40" alt="PostgreSQL"/>
 <img src="https://cdn.simpleicons.org/mysql" width="40" height="40" alt="MySQL"/>
 <img src="https://cdn.simpleicons.org/redis" width="40" height="40" alt="Redis"/>
 <img src="https://cdn.simpleicons.org/sqlite" width="40" height="40" alt="SQLite"/>
 <img src="https://cdn.simpleicons.org/sqlalchemy" width="40" height="40" alt="SQLAlchemy"/>
+</p>
 
 ### DevOps & Cloud
 
